@@ -1,0 +1,67 @@
+{
+  "title_pool_count": 229,
+  "hydrated_sample_count": 40,
+  "tracked_term_counts": {
+    "改造": 23,
+    "高级感": 5,
+    "抄作业": 6,
+    "治愈": 4,
+    "氛围感": 5,
+    "Dream house": 4,
+    "普通人": 6,
+    "尽力了": 6,
+    "幸福感": 0,
+    "松弛感": 1,
+    "人见人夸": 0,
+    "终于": 2,
+    "清单": 3,
+    "预算": 1,
+    "尺寸": 3,
+    "步骤": 0
+  },
+  "top_long_titles": [
+    "room tour | 独居女孩 22㎡的卧室布置🛏️",
+    "roomtour｜广州市区5w硬装的老破小长什么样？",
+    "人生的第一套房，就装出了我的Dream house",
+    "6.1m横厅 | 我家真的只有113平，只做了局改",
+    "No.72｜分享100个喜欢的博主的家｜附软装清单",
+    "图1到图2，12w💰改造60平精装房真的尽力了！",
+    "31岁 住进了属于我自己的Dream house",
+    "全网求的AI装修教程！Gemini设计指令分享🧾",
+    "Roomtour｜9㎡卧室房间布置大介绍❗️❗️",
+    "房贷100W，这一刻值99W，爱上了书房的氛围感",
+    "东莞新的！国贸！（窗景美到失语 好chill…😭",
+    "折衷极简 | 我家的‘松弛感’，是精心设计过的",
+    "抄作业成功！第一次就装出Dream house",
+    "Lulu酱的192㎡｜意式极简装修预算分配参考",
+    "6k爆改18㎡衣帽间！衣服全挂起！真香啊！☺️",
+    "毕业花5000爆改空房 房东：你可以出去了…😳",
+    "Room Tour｜欢迎光临29岁ISFJ的家",
+    "Roomtour:成都43万买下我的梦中情房！",
+    "广州很喜欢的12家漂亮店….美到失语（附地址）",
+    "深圳新店 春日仪式感从一顿惬意brunch开始"
+  ],
+  "title_patterns": {
+    "question_like": 12,
+    "exclamation_like": 53,
+    "contains_number": 81,
+    "contains_dream_house": 4,
+    "contains_copywriting_bait": 12,
+    "contains_mood_words": 15
+  },
+  "sample_stats": {
+    "avg_content_chars": 368.6,
+    "avg_poop_score": 37.6,
+    "poop_candidate_count": 1,
+    "avg_visible_likes": 1231.0,
+    "avg_visible_collects": 752.4,
+    "avg_visible_comments": 52.2
+  },
+  "taxonomy_hypothesis": [
+    "假干货型",
+    "假治愈型",
+    "模板拼贴型",
+    "标题诈骗型",
+    "图好文烂型"
+  ]
+}

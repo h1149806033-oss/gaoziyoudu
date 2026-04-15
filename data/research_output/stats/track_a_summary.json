@@ -1,0 +1,27 @@
+{
+  "total_notes": 874,
+  "categories": [
+    "lifestyle",
+    "fashion",
+    "tech",
+    "travel",
+    "food"
+  ],
+  "analyses": [
+    "descriptive",
+    "correlation",
+    "regression",
+    "category_comparison",
+    "time",
+    "clustering"
+  ],
+  "charts_generated": [
+    "regression_coefficients.png",
+    "model_validation.png",
+    "boxplot_engagement.png",
+    "correlation_heatmap.png",
+    "category_radar.png",
+    "time_heatmap.png",
+    "cluster_pca.png"
+  ]
+}
